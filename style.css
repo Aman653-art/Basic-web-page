@@ -1,0 +1,52 @@
+body{
+    background-color:#E4E0E1
+}
+h1{
+    Color : rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+#seven{
+    text-align: center;
+}
+#one{
+    background-color:yellow;
+}
+#zero{
+    background-color:aqua;  
+}
+#two{
+    background-color:#A1EEBD
+}
+#three{
+    background-color:#9694FF
+    ;
+}
+#four{
+    background-color:#FF8000
+}
+#five{
+    background-color:#FFE31A
+}
+#six{
+    text-align:center;
+    background-color:#9694FF;
+    border-color:black;
+    border-style:solid;
+    border-radius:50px;
+}
+footer{
+    color:blue;
+    text-align:center;
+}
+body{
+    background-color:#a9a9a4;
+}
+header{
+    border-style:solide;
+    border-color:black;
+}
